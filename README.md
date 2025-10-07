@@ -22,15 +22,15 @@ Dash is running on http://127.0.0.1:8050/
 - Dash & Plotly
 - Pandas & NumPy
 - HTML/CSS (Dash styling)
+---
 
+## **Author**
+Name: Naman Shetty
+Email: shettynaman63@gmail.com
+LinkedIn: (https://www.linkedin.com/in/naman-vijay-kumar-shetty-213898215/)
 ---
 
 ## **Installation**
 1. Clone the repository:
 ```bash
 git clone https://github.com/Nandan-V-Shetty/PUMA-Project.git
-
-## **Author**
-Name: Naman Shetty
-Email: shettynaman63@gmail.com
-LinkedIn: (https://www.linkedin.com/in/naman-vijay-kumar-shetty-213898215/)
