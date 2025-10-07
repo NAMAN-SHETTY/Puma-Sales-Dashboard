@@ -30,3 +30,7 @@ Dash is running on http://127.0.0.1:8050/
 ```bash
 git clone https://github.com/Nandan-V-Shetty/PUMA-Project.git
 
+## **Author**
+Name: Naman Shetty
+Email: shettynaman63@gmail.com
+LinkedIn: (https://www.linkedin.com/in/naman-vijay-kumar-shetty-213898215/)
